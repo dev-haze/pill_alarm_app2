@@ -125,7 +125,7 @@ public class _1_pill extends _0_frame_class {
         create_btn.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick(View view){
-                Intent intent = new Intent(getApplicationContext(), _1_pill_logic_input.class);
+                Intent intent = new Intent(getApplicationContext(), _1_pill_input.class);
                 startActivity(intent);
             }
         });
