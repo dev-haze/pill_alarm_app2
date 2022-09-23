@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/_0_frame.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/_1_pill.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/_1_pill_input.xml" value="0.2" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/_1_pill_list_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/activity_input.xml" value="0.1125" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/activity_main_input.xml" value="0.264" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/activity_pill_alarm_item.xml" value="0.4" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/alarm_single.xml" value="0.264" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/check.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/frame.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/pe.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/pill.xml" value="0.21422101449275363" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pill_alarm_app/pillapp2_300/app/src/main/res/layout/pill_alarm_item.xml" value="0.16875" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/check.xml" value="0.136" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/frame.xml" value="0.28125" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/heck.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/pe.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/pill.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/test1.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/layout/측정.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1235" />
+        <entry key="..\:/Users/bigla/AndroidStudioProjects/pillapp2_300/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1235" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
